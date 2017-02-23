@@ -1,0 +1,32 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It allowed me to see all the changes that were made and what line they were on. Once I could see that,
+it was easy to see where the mistake was just by comparing manually.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It would allow me to see any and all changes ever made, so if I run into a problem because of something changed much earlier I can compare versions and find the diff between them.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Well the pro's are that you don't end up with more commits than you need and dont get versions with unneccessary or non-existent changes, con's would be human error and forgetting to commit at the right time.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Version control systems allow saving of multiple files to a commit because when programming there are likely changes that will affect multiple files.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+Using Git Log I can find all the commits related to the files, then, using git diff, I can compare the commits to see how many lines were added and/or removed. This allows me to quickly find and correct errors.
+
+6. How might using version control make you more confident to make changes that could break something?
+
+The fact that I can revert back to old versions to test for errors makes me very confident in untroducing changes that might break the program.
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+Everything. Excited to start using it for programming and my machine learning course. Also looing forward to learning about github.
+
+
+
+

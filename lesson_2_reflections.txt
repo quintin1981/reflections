@@ -1,0 +1,4 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a folder called .git. This will be used to track and log changes to the files within the new git repository.
+
