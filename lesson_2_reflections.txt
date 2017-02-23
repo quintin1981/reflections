@@ -6,3 +6,7 @@ Git creates a folder called .git. This will be used to track and log changes to 
 
 The staging area, I think, is an intermediate between the working dirctory and the respository, allowing you to choose multiple files before commiting them to the repository.
 
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+I guess I can use the staging area to hang on to the file until Ive made changes, then commit it. Im not really sure.
+
