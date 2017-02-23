@@ -13,3 +13,7 @@ I guess I can use the staging area to hang on to the file until Ive made changes
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches are useful for make major changes while retaining a working copy without the need to search for a working commit to checkout.
+
+5. How do the diagrams help you visualize the branch structure?
+
+By showing the structure visually, it makes more sense.
