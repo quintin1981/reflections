@@ -2,3 +2,7 @@
 
 Git creates a folder called .git. This will be used to track and log changes to the files within the new git repository.
 
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area, I think, is an intermediate between the working dirctory and the respository, allowing you to choose multiple files before commiting them to the repository.
+
