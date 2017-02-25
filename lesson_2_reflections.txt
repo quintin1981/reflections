@@ -21,3 +21,7 @@ By showing the structure visually, it makes more sense.
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is a merging of two different branches of code into one file. It only makes sense to show it in a diagram as being linked to two separate branched.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It saves alot of time and can prevent some pretty interesting and unwanted issues.
