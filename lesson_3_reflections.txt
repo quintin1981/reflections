@@ -9,3 +9,7 @@ Because you may not want certain things updated right away. manual is better mos
 3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A fork is a copy of someone elses project on github, a clone is a copy from a github account and a branch is divergence from a master set of commits allowing for multiple changes to be made without altering the master project.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is knowing the last changes that were made before you left the project, so any changes afterward can be recognized and dealt with.
