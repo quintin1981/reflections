@@ -13,3 +13,7 @@ A fork is a copy of someone elses project on github, a clone is a copy from a gi
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit is knowing the last changes that were made before you left the project, so any changes afterward can be recognized and dealt with.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+probably over email, or the phone. Maybe chat rooms or skype. some changes would probably be quicker to just tell the perso about, but for larger project changes I would think trying to communicate those changes would be very hard indeed. I imagine it would take alot longer too.
