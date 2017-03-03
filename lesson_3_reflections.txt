@@ -17,3 +17,7 @@ The benefit is knowing the last changes that were made before you left the proje
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 probably over email, or the phone. Maybe chat rooms or skype. some changes would probably be quicker to just tell the perso about, but for larger project changes I would think trying to communicate those changes would be very hard indeed. I imagine it would take alot longer too.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When the changes are likely to be large and experimental with manny commits I would want to use a separate branch to more easily see my work as well as not affecting the master project in the process. Making changes in master is beeficial for minor changes or additions, but making them in a separate branch adds the benefit of easy reading and separation of ideas
